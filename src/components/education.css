@@ -1,0 +1,23 @@
+.education-header{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 2;
+}
+.education-body{
+    padding: 10px;
+}
+.School-year{
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+.School-title{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 2px;
+}
+.School-name{
+    font-size: 15px;
+    font-weight: '600';
+    margin: 2px;
+}

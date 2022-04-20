@@ -1,0 +1,30 @@
+.experience{
+    padding: 10px;
+}
+.Experience-header{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 2;
+}
+.Experience-body{
+    padding: 10px;
+}
+.Experience-body-header{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 2px;
+}
+.Experience-companyName{
+    font-size: 18px;
+    font-weight: '600';
+    margin: 2px;
+}
+.Experience-body-description{
+    gap: 2px;
+    font-size: 15px;
+}
+.Experience-body-date{
+    font-size: 15px;
+    font-weight: '600';
+    margin: 2px;
+}
