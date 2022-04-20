@@ -1,4 +1,3 @@
-import Dp from "./assets/cv-dp.jpeg";
 import "./App.css";
 import BasicDetails from "./components/basicDetails";
 import Skills from "./components/skills";
